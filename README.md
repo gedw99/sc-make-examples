@@ -1,5 +1,5 @@
-# gio-make-examples
+# sc-make-examples
 
-Examples showing gio-make ( https://github.com/gedw99/gio-make ) being used on go, gio, caddy, etc projects.
+Examples showing sc-make ( https://github.com/gedw99/sc-make ) being used on go, gio, caddy, etc projects.
 
 See makefile !
